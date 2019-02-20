@@ -1,0 +1,8 @@
+[
+  "pytests/test_index.py::test_conda_environment_activated",
+  "pytests/test_index.py::test_number_of_destinations_func",
+  "pytests/test_index.py::test_next_up_func",
+  "pytests/test_index.py::test_favorite_destination_func",
+  "pytests/test_index.py::test_add_favorite_destination_func",
+  "pytests/test_index.py::test_capitalize_countries_func"
+]

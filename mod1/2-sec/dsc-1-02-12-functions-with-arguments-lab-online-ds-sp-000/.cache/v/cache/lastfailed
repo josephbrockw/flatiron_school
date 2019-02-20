@@ -1,0 +1,10 @@
+{
+  "pytests/test_index.py::test_conda_environment_activated": true,
+  "pytests/test_index.py::test_high_rating_func": true,
+  "pytests/test_index.py::test_is_better_func": true,
+  "pytests/test_index.py::test_is_cheaper_func": true,
+  "pytests/test_index.py::test_mean_review_count_func": true,
+  "pytests/test_index.py::test_mediam_review_count_func": true,
+  "pytests/test_index.py::test_restaurant_name_func": true,
+  "pytests/test_index.py::test_restaurant_rating_func": true
+}

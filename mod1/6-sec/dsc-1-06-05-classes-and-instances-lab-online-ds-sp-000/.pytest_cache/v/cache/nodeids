@@ -1,0 +1,5 @@
+[
+  "pytests/test_index.py::test_conda_environment_activated",
+  "pytests/test_index.py::test_class_definitions",
+  "pytests/test_index.py::test_instances"
+]

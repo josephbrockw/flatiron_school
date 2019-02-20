@@ -1,0 +1,4 @@
+{
+  "pytests/test_index.py::test_conda_environment_activated": true,
+  "pytests/test_index.py::test_select_name_and_age_of_three_youngest_dogs": true
+}

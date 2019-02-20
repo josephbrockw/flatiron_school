@@ -1,0 +1,5 @@
+[
+  "pytests/test_index.py::test_conda_environment_activated",
+  "pytests/test_index.py::test_number",
+  "pytests/test_index.py::test_flatiron_mantra"
+]

@@ -1,0 +1,11 @@
+[
+  "pytests/test_index.py::test_conda_environment_activated",
+  "pytests/test_index.py::test_countries_list",
+  "pytests/test_index.py::test_colors_list",
+  "pytests/test_index.py::test_players_list",
+  "pytests/test_index.py::test_captains_list",
+  "pytests/test_index.py::test_home_team_players_list",
+  "pytests/test_index.py::test_forwards_list",
+  "pytests/test_index.py::test_player_with_highest_num_dict",
+  "pytests/test_index.py::test_player_names_list"
+]

@@ -1,0 +1,3 @@
+{
+  "pytests/test_index.py::test_conda_environment_activated": true
+}

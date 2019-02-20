@@ -1,0 +1,5 @@
+{
+  "pytests/test_index.py::test_delete_from": true,
+  "pytests/test_index.py::test_insert_into": true,
+  "pytests/test_index.py::test_update_jupiter": true
+}

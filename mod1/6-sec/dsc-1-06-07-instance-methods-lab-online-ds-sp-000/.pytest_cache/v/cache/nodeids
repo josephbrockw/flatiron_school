@@ -1,0 +1,5 @@
+[
+  "pytests/test_index.py::test_instance_types",
+  "pytests/test_index.py::test_variables",
+  "pytests/test_index.py::test_instance_methods"
+]

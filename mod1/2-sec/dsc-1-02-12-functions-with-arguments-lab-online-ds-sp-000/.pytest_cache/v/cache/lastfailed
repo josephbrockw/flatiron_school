@@ -1,0 +1,4 @@
+{
+  "pytests/test_index.py": true,
+  "pytests/test_index.py::test_mediam_review_count_func": true
+}
