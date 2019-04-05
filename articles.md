@@ -7,3 +7,5 @@
 * [Next Level of Data Visualization](https://towardsdatascience.com/the-next-level-of-data-visualization-in-python-dd6e99039d5e)
 * [Hypothesis Testing](https://towardsdatascience.com/data-science-simplified-hypothesis-testing-56e180ef2f71)
 * [Time Series Data in Python](https://towardsdatascience.com/playing-with-time-series-data-in-python-959e2485bff8)
+* [List of the Best Machine Learning Books](https://www.analyticsvidhya.com/blog/2019/01/27-amazing-data-science-books-every-data-scientist-should-read/)
+* [Data Transformation](https://medium.com/@TheDataGyan/day-8-data-transformation-skewness-normalization-and-much-more-4c144d370e55)
